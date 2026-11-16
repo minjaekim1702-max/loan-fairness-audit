@@ -1,0 +1,8 @@
+# Tested with Python 3.14.3
+pandas==3.1.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+ucimlrepo==0.0.7
+
+# Optional: only for the demo app in the last cell
+gradio==6.32.0
